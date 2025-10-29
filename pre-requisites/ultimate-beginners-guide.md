@@ -12,15 +12,15 @@ To understand this practical discipline, there is no try. Eventually, it might h
 
 Sections in this Article
 
-1. [Introduction](https://shostack.org/resources/threat-modeling#introduction)
-2. [What is Threat Modeling?](https://shostack.org/resources/threat-modeling#definition)
-3. [What is the difference between Threat Modeling and Risk Management?](https://shostack.org/resources/threat-modeling#difference)
-4. [Why is Threat Modeling important?](https://shostack.org/resources/threat-modeling#important)
-5. [What are the 4 Steps of Threat Modeling?](https://shostack.org/resources/threat-modeling#4steps)
-6. [Why are there so many threat modeling methodologies?](https://shostack.org/resources/threat-modeling#why-so-many)
-7. [What are the most common threat modeling techniques and methodologies?](https://shostack.org/resources/threat-modeling#methods-techs)
-8. [Who can use threat modeling?](https://shostack.org/resources/threat-modeling#who-can-use)
-9. [Shostack + Associates: Learn Threat Modeling from the Expert](https://shostack.org/resources/threat-modeling#learn-more)
+1. Introduction
+2. What is Threat Modeling?
+3. What is the difference between Threat Modeling and Risk Management?
+4. Why is Threat Modeling important?
+5. What are the 4 Steps of Threat Modeling?
+6. Why are there so many threat modeling methodologies?
+7. What are the most common threat modeling techniques and methodologies?
+8. Who can use threat modeling?
+9. Shostack + Associates: Learn Threat Modeling from the Expert
 
 ## What is Threat Modeling?
 
